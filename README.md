@@ -48,5 +48,3 @@ We work on **neural model**-based research in natural language processing, audio
 **Asst. Prof. Dr. Melike Nur Yeğin** · Fatih Sultan Mehmet Vakıf University, Department of Artificial Intelligence
 **Asst. Prof. Dr. Fatma Gümüş** · National Defence University, Air Force Academy, Department of Computer Engineering
 
-<sub>NAV Research — carrying forward the legacy of NOVA.</sub>
-
