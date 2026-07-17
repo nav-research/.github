@@ -1,6 +1,6 @@
 # NAV Research
 
-**N**LP, **A**udio, **V**ision: çoklu modalite üzerine neural modeller geliştiren bir araştırma ekibiyiz.
+**N**LP, **A**udio, **V**ision: Doğal dil işleme, ses ve görüntü üzerine neural modeller geliştiren bir araştırma ekibiyiz.
 
 *A research team building neural models across **N**LP, **A**udio, and **V**ision.*
 
