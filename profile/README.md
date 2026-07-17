@@ -43,7 +43,7 @@ We work on **neural model**-based research in natural language processing, audio
 
 ### Team
 
-**Asst. Prof. Dr. Gülsüm Yiğit** · Yıldız Technical University, Artificial Intelligence and Data Engineering
-**Asst. Prof. Dr. Melike Nur Yeğin** · Fatih Sultan Mehmet Vakıf University, Department of Artificial Intelligence
-**Asst. Prof. Dr. Fatma Gümüş** · National Defence University, Air Force Academy, Department of Computer Engineering
+**Asst. Prof. Dr. Gulsum Yigit** · Yıldız Technical University, Artificial Intelligence and Data Engineering
+**Asst. Prof. Dr. Melike Nur Yegin** · Fatih Sultan Mehmet Vakıf University, Department of Artificial Intelligence
+**Asst. Prof. Dr. Fatma Gumus** · National Defence University, Air Force Academy, Department of Computer Engineering
 
