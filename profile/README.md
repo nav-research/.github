@@ -22,8 +22,8 @@ Doğal dil işleme, ses işleme ve görüntü işleme alanlarında **neural mode
 ### Ekip
 
 **Dr. Öğr. Üyesi Gülsüm Yiğit** · Yıldız Teknik Üniversitesi, Yapay Zeka ve Veri Mühendisliği
-**Dr. Öğr. Üyesi Melike Nur Yeğin** · Fatih Sultan Mehmet Vakıf Üniversitesi, Yapay Zeka Bölümü
-**Dr. Öğr. Üyesi Fatma Gümüş** · Milli Savunma Üniversitesi, Hava Harp Okulu Dekanlığı, Bilgisayar Mühendisliği Bölümü
+**Dr. Öğr. Üyesi Melike Nur Yeğin** · Fatih Sultan Mehmet Vakıf Üniversitesi, Yapay Zeka ve Veri Bilimi
+**Dr. Öğr. Üyesi Fatma Gümüş** · Milli Savunma Üniversitesi, Hava Harp Okulu Dekanlığı, Bilgisayar Mühendisliği
 
 ---
 
@@ -44,6 +44,6 @@ We work on **neural model**-based research in natural language processing, audio
 ### Team
 
 **Asst. Prof. Dr. Gulsum Yigit** · Yıldız Technical University, Artificial Intelligence and Data Engineering
-**Asst. Prof. Dr. Melike Nur Yegin** · Fatih Sultan Mehmet Vakıf University, Department of Artificial Intelligence
-**Asst. Prof. Dr. Fatma Gumus** · National Defence University, Turkish Air Force Academy, Department of Computer Engineering
+**Asst. Prof. Dr. Melike Nur Yegin** · Fatih Sultan Mehmet Foundation University, Artificial Intelligence and Data Science
+**Asst. Prof. Dr. Fatma Gumus** · National Defence University, Turkish Air Force Academy, Computer Engineering
 
